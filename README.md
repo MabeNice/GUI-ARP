@@ -1,3 +1,3 @@
 # GUI-ARP
 Official implementation of the paper "GUI-ARP: ENHANCING GROUNDING WITH ADAPTIVE REGION PERCEPTION FOR GUI AGENTS"
-![image](assets/main results.png)
+![image](assets/main_results.png)
